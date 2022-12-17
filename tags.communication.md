@@ -2,13 +2,13 @@
 id: mWnk7QOJjZVFq8Rv1ynlS
 title: Communication
 desc: ''
-updated: 1671312462669
+updated: 1671318838918
 created: 1637665938098
 ---
 
 
 
-- [[p.similarTo]] [[sphere.Discursive]]
+- [[p.similarTo]] #discursive
 
 ## [[p.hasRelatedResource]]
 

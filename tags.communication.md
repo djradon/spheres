@@ -1,8 +1,8 @@
 ---
 id: mWnk7QOJjZVFq8Rv1ynlS
-title: Communication Predicates
+title: Communication
 desc: ''
-updated: 1638117014083
+updated: 1671312462669
 created: 1637665938098
 ---
 

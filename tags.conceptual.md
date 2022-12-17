@@ -1,8 +1,8 @@
 ---
 id: EXIAVsa8IVTAiegl2QmBF
-title: Conceptual Predicates
-desc: predicates relating Concepts
-updated: 1668754051394
+title: Conceptual
+desc: ''
+updated: 1671312418789
 created: 1637940680418
 ---
 

@@ -1,16 +1,12 @@
 ---
 id: IbLzJTjzkkIy2HwIVLvUu
-title: Activity Predicates
+title: Activity
 desc: ''
-updated: 1637955557281
+updated: 1671311378546
 created: 1634932253364
 ---
 
-
-
 Active words are useful for task management
-
-- [[p.subClassOf]] [[pc]]
 
 ## thoughts
 

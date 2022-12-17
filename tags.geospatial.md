@@ -1,8 +1,8 @@
 ---
 id: w9W2Vz2peblAQnBCH1UXB
-title: GeoSpatial Predicates
+title: Geospatial
 desc: ''
-updated: 1638116902090
+updated: 1671312230916
 created: 1638116711855
 ---
 

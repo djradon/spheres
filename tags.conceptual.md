@@ -2,11 +2,11 @@
 id: EXIAVsa8IVTAiegl2QmBF
 title: Conceptual
 desc: ''
-updated: 1671312418789
+updated: 1671641571335
 created: 1637940680418
 ---
 
-
+#related
 
 - [[p.hasExample]]
   - [[p.isRelated]]
@@ -18,5 +18,3 @@ created: 1637940680418
 - 
 
 pi: publishing under a restrictive license or commercial model requires profit share with distribution partners
-
-![](/assets/images/2021-11-26-07-34-50.png)

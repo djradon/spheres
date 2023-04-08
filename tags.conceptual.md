@@ -10,5 +10,5 @@ created: 1637940680418
   - [[p.isRelated]]
   - broader/narrower
   - [[p.hasPart]]
-- [[p.hasRelatedResource]] https://rdf-vocabulary.ddialliance.org/xkos.html#correspondences
+- [[c.Resource]] https://rdf-vocabulary.ddialliance.org/xkos.html#correspondences
 

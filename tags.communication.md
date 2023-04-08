@@ -10,7 +10,7 @@ created: 1637665938098
 
 - [[p.similarTo]] #discursive
 
-## [[p.hasRelatedResource]]
+## [[c.Resource]]
 
 - [Request Interaction Protocol](http://www.fipa.org/specs/fipa00026/SC00026H.html)
   - should have a failure-inform 
